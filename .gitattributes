@@ -1,0 +1,4 @@
+*.dat binary
+.vault.meta binary
+*.ini text
+* -text
